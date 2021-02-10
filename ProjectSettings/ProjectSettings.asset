@@ -162,7 +162,7 @@ PlayerSettings:
     Android: net.mobfish.cardboard
     Standalone: net.mobfish.cardboard
     iOS: net.mobfish.cardboard
-    iPhone: net.mobfish.cardboard
+    iPhone: net.mobfish.cardboard.test
   buildNumber:
     iOS: 1
   AndroidBundleVersionCode: 1
